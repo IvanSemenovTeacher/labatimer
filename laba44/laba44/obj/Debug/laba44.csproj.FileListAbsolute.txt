@@ -1,0 +1,11 @@
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\laba44\laba44\bin\Debug\laba44.exe.config
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\laba44\laba44\bin\Debug\laba44.exe
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\laba44\laba44\bin\Debug\laba44.pdb
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\laba44\laba44\obj\Debug\laba44.csprojResolveAssemblyReference.cache
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\laba44\laba44\obj\Debug\Window1.baml
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\laba44\laba44\obj\Debug\Window1.g.cs
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\laba44\laba44\obj\Debug\App.g.cs
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\laba44\laba44\obj\Debug\laba44_MarkupCompile.cache
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\laba44\laba44\obj\Debug\laba44.g.resources
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\laba44\laba44\obj\Debug\laba44.exe
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\laba44\laba44\obj\Debug\laba44.pdb
